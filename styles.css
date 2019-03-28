@@ -1,0 +1,27 @@
+
+
+body {background-color: aliceblue;}
+p {
+
+    text-align: center;
+
+.pix{
+    min-width: 50px;
+    max-width: 100px;
+    min-height: 50px;
+    max-height: 100px;
+
+}    
+#cake{
+    border: 5px solid lavender;
+    margin: 3px;
+    padding: 5px;
+    text-align: center;
+
+}
+#frosting{
+    border: 5px solid mistyrose;
+    margin: 3px;
+    padding: 5px;
+    text-align: center;
+}
